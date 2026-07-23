@@ -1,0 +1,10 @@
+year,scenario,baseline_trend,event_impact_pp,forecast_final,ci_lower,ci_upper,event_breakdown
+2025,base,54.24,26.17,80.41,68.41,92.4,"{'Telebirr Launch': 15.0, 'Fayda Digital ID Program Rollout': 8.17, 'Digital ID Expansion Launch': 2.39, 'Rural Agent Network Expansion': 0.6}"
+2026,base,56.95,29.01,85.96,73.18,98.74,"{'Telebirr Launch': 15.0, 'Fayda Digital ID Program Rollout': 9.52, 'Digital ID Expansion Launch': 2.96, 'Rural Agent Network Expansion': 1.52}"
+2027,base,59.66,29.81,89.47,75.88,100.0,"{'Telebirr Launch': 15.0, 'Fayda Digital ID Program Rollout': 9.89, 'Digital ID Expansion Launch': 3.0, 'Rural Agent Network Expansion': 1.92}"
+2025,optimistic,54.24,32.71,86.95,77.35,100.0,"{'Telebirr Launch': 18.75, 'Fayda Digital ID Program Rollout': 10.22, 'Digital ID Expansion Launch': 2.99, 'Rural Agent Network Expansion': 0.76}"
+2026,optimistic,56.95,36.26,93.21,82.99,100.0,"{'Telebirr Launch': 18.75, 'Fayda Digital ID Program Rollout': 11.91, 'Digital ID Expansion Launch': 3.7, 'Rural Agent Network Expansion': 1.9}"
+2027,optimistic,59.66,37.26,96.92,86.04,100.0,"{'Telebirr Launch': 18.75, 'Fayda Digital ID Program Rollout': 12.36, 'Digital ID Expansion Launch': 3.75, 'Rural Agent Network Expansion': 2.4}"
+2025,pessimistic,54.24,19.63,73.87,59.48,83.47,"{'Telebirr Launch': 11.25, 'Fayda Digital ID Program Rollout': 6.13, 'Digital ID Expansion Launch': 1.8, 'Rural Agent Network Expansion': 0.45}"
+2026,pessimistic,56.95,21.76,78.71,63.38,88.93,"{'Telebirr Launch': 11.25, 'Fayda Digital ID Program Rollout': 7.14, 'Digital ID Expansion Launch': 2.22, 'Rural Agent Network Expansion': 1.14}"
+2027,pessimistic,59.66,22.35,82.01,65.7,92.89,"{'Telebirr Launch': 11.25, 'Fayda Digital ID Program Rollout': 7.42, 'Digital ID Expansion Launch': 2.25, 'Rural Agent Network Expansion': 1.44}"
