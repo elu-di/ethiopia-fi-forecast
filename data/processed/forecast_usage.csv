@@ -1,0 +1,10 @@
+year,scenario,baseline_trend,event_impact_pp,forecast_final,ci_lower,ci_upper,event_breakdown
+2025,base,32.52,8.61,41.13,17.05,65.22,"{'Telebirr Merchant Expansion': 4.85, 'EthSwitch Full Interoperability': 3.76}"
+2026,base,35.69,9.0,44.69,19.03,70.34,"{'Telebirr Merchant Expansion': 5.0, 'EthSwitch Full Interoperability': 4.0}"
+2027,base,38.87,9.0,47.87,20.58,75.16,"{'Telebirr Merchant Expansion': 5.0, 'EthSwitch Full Interoperability': 4.0}"
+2025,optimistic,32.52,10.77,43.29,24.02,72.19,"{'Telebirr Merchant Expansion': 6.07, 'EthSwitch Full Interoperability': 4.7}"
+2026,optimistic,35.69,11.25,46.94,26.42,77.73,"{'Telebirr Merchant Expansion': 6.25, 'EthSwitch Full Interoperability': 5.0}"
+2027,optimistic,38.87,11.25,50.12,28.28,82.87,"{'Telebirr Merchant Expansion': 6.25, 'EthSwitch Full Interoperability': 5.0}"
+2025,pessimistic,32.52,6.46,38.98,10.08,58.25,"{'Telebirr Merchant Expansion': 3.64, 'EthSwitch Full Interoperability': 2.82}"
+2026,pessimistic,35.69,6.75,42.44,11.65,62.96,"{'Telebirr Merchant Expansion': 3.75, 'EthSwitch Full Interoperability': 3.0}"
+2027,pessimistic,38.87,6.75,45.62,12.87,67.46,"{'Telebirr Merchant Expansion': 3.75, 'EthSwitch Full Interoperability': 3.0}"
